@@ -1,7 +1,9 @@
 # Link To My Project
 ### Click the link please to see my project: [Google Landing Page](https://nurkocar.github.io/Google-Landing-Page/)
 
+## Here is the view of my project...
 
+![Google Landing Page](./images/GoogleLandingPage.png)
 # Project-002 :Google Landing Page (HC-02)
 
 ## Description
