@@ -1,5 +1,4 @@
-# Link To My Project
-### Click the link please to see my project: [Google Landing Page](https://nurkocar.github.io/Google-Landing-Page/)
+# Link To My Project [Google Landing Page](https://nurkocar.github.io/Google-Landing-Page/)
 
 ## Here is the view of my project...
 
